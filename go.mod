@@ -1,4 +1,4 @@
-module github.com/Wuchieh/Go-Server
+module github.com/Wuchieh/Go-Server-Learn
 
 go 1.18
 
